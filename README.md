@@ -11,19 +11,19 @@ Want to use our slides? Our teaching materials fall under the [Creative Commons 
 - [Install Party](#welcome-reception--install-party)
 
 Week 1:
-- [Day 1: coming soon!](#day-1)
-- [Day 2: coming soon!](#day-2)
-- [Day 3: coming soon!](#day-3)
-- [Day 4: coming soon!](#day-4)
-- [Day 5: coming soon!](#day-5)
+- [Day 1: Intro to Data Journalism, Spreadsheets, Best Practices](#day-1)
+- [Day 2: Evaluating data, Open Refine, Analyzing One Variable](#day-2)
+- [Day 3: Intro to Mapping, Common Calculations in News, Analyzing Two Variables, Statistics](#day-3)
+- [Day 4: Visualizing Data, Charts and Maps](#day-4)
+- [Day 5: Intro to Code, How Websites Work, HTML, CSS](#day-5)
 
 
 Week 2:
-- [Day 6: coming soon!](#day-6)
-- [Day 7: coming soon!](#day-7)
-- [Day 8: coming soon!](#day-8)
-- [Day 9: coming soon!](#day-9)
-- [Day 10: coming soon!](#day-10)
+- [Day 6: Intro to Design, Type, Layout & Color, Making a Webpage with Github](#day-6)
+- [Day 7: Web Scraping, Fundamentals of Programming](#day-7)
+- [Day 8: Even More Web Scraping](#day-8)
+- [Day 9: Field Trip / TBD!](#day-9)
+- [Day 10:  Final Presentations](#day-10)
 
 ## Welcome Reception & Install Party
 
