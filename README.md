@@ -35,30 +35,13 @@ Week 2:
 </ul>
 
 **SOFTWARE**
-- <a href="https://www.google.com/chrome/browser/desktop/">Google Chrome</a>
-- Slack (<a href="https://itunes.apple.com/app/slack/id803453959?ls=1&amp;mt=12">Mac</a>, <a href="https://slack.com/ssb/download-win">Windows</a>)
-- Sublime Text (<a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114.dmg">Mac</a>, <a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114%20x64%20Setup.exe">Windows</a>)
-- <a href="https://desktop.github.com/">Github Desktop App</a>
-- Tabula (<a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-mac-1.0.1.zip">Mac</a>, <a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-win-1.0.1.zip">Windows</a>)
-- Open Refine (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.zip">Windows</a>)
+- <a href="https://www.google.com/chrome/browser/desktop/">Google Chrome</a> - Everything we'll be teaching you about previewing and testing code will work in other browsers like Firefox, Safari, and Internet Explorer, but each browser designs how it works a little differently. Since we'll be demoing everything in Chrome, it'll be easiest for you to follow along.
+- Slack (<a href="https://itunes.apple.com/app/slack/id803453959?ls=1&amp;mt=12">Mac</a>, <a href="https://slack.com/ssb/download-win">Windows</a>) - All of you should have received an invite to join the Data Institute Slack. If you've never used Slack before, it's basically a place where you can message with a group of people. You need both an account (which you should be able to set up based on your email invitation) and we want you to download the desktop app (which you can do by clicking on the Mac or Windows link above).
+- Sublime Text (<a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114.dmg">Mac</a>, <a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114%20x64%20Setup.exe">Windows</a>) - This app is where we're going to be writing all our code. It's completely free, and will occassionally ask you if you'd like to pay, but payment is not required. For both beginners and experts, Sublime is one of the best apps for coding.
+- <a href="https://desktop.github.com/">Github Desktop App</a> - an app to simplify your Github experience.
+- Tabula (<a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-mac-1.0.1.zip">Mac</a>, <a href="https://github.com/tabulapdf/tabula/releases/download/v1.0.1/tabula-win-1.0.1.zip">Windows</a>) - Your best friend for when you have a huge stack of data tables in PDF format and need to turn it into actual data you can use.
+- Open Refine (<a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.dmg">Mac</a>, <a href="https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.zip">Windows</a>) - A great tool to help you clean data (ex: it can recognize that "Saint Paul" and "St. Paul" maybe refer to the same city in Minnesota) 
 	- If you're on a Mac, and you get the error that Google/Open Refine is damaged, [follow these instructions](open-refine-troubleshooting.md).
-
-**Macs**
-- Open your <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal app</a> (comes with all Macs) and paste these exact commands into the window, one at a time, and press enter:
-- `xcode-select --install`
-- `python -V`
-  - Your Terminal should say something like "Python 2.7.13". Your last two digits might be different, that's okay. If you get something that Python 3, which looks like: "Python 3.X.XX" let Sisi know.
-- `curl https://bootstrap.pypa.io/get-pip.py | sudo python`
-  - This will ask you to put in your computer password. Go ahead, and quick warning: the cursor won't move, but trust that your computer is reading what you're typing in.
-- `pip install --user BeautifulSoup`
-- `pip install --user Requests`
-
-**Windows**
-- Download [Cygwin](https://cygwin.com/install.html)
-	- Here's a [screenshot-by-screenshot walkthrough](http://www.mcclean-cooper.com/valentino/cygwin_install/) of what installing it should be like.
-	- **PLEASE NOTE:**
-		- On step 9, installing packages, you only need to select `python`and `git` as packages to install. If there are multiple versions of `python` options, pick `python2`.
-		- Only go through steps 1-10. **Do not** continue to the "Setup Notes" section of the walkthrough.
 
 <hr/>
 
