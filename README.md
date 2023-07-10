@@ -70,6 +70,8 @@ Tuesday, July 11
 ## Day 3
 Wednesday, July 12
 
+<a href="https://propublica.s3.amazonaws.com/data-institute/mms-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/mms.png"></a>
+
 ## Day 4
 Thursday, July 13
 
