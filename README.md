@@ -64,6 +64,7 @@ Monday, July 10
 ## Day 2
 Tuesday, July 11
 
+<a href="https://propublica.s3.amazonaws.com/data-institute/evaluating-data-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/evaluating-data.jpg"></a>
 <a href="https://propublica.s3.amazonaws.com/data-institute/open-refine-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/open-refine.jpg"></a>
 
 ## Day 3
