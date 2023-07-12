@@ -76,7 +76,7 @@ Basic Geographic Data
 - [Census Geocoder](https://geocoding.geo.census.gov/geocoder/locations/addressbatch?form)
 - [Maryland zip codes](https://data.imap.maryland.gov/datasets/maryland::maryland-political-boundaries-zip-codes-5-digit/explore?location=38.977456%2C-77.408308%2C8.94)
   
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/data-institute/analysis-two-vars-23.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.jpg"></a>
 <a href="https://propublica.s3.amazonaws.com/data-institute/mms-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/mms.png"></a>
 
 ## Day 4
