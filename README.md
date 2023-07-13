@@ -86,10 +86,11 @@ Thursday, July 13
 
 <a href="https://docs.google.com/presentation/d/1gkFt1MwdqwxSnhease3RJH_AtA61qEGyTUKJCo4C28Q/edit?usp=sharing"><img width="300" src="https://github.com/cjddatainstitute/data-institute-2023/blob/main/assets/day-4-thumbnail.png"></a>
 
-Getting started with Datawrapper
+Intro to visualiziing data
 - [Creating your first chart](https://academy.datawrapper.de/article/245-how-to-create-your-first-datawrapper-chart)
 - [Creating your first map](https://academy.datawrapper.de/article/268-how-to-create-your-first-choropleth-map)
   - [Florida county unemployment](https://docs.google.com/spreadsheets/d/1m2CevE363ZqqYHSBpB8nYeKReX52TdVkJ_eXZCTG_7k/edit#gid=266177519)
+- [More resources, reading and inspiration](https://docs.google.com/document/d/1MNRiSy0wQapCfu4PjSlvRobXIR4taB47gtr5v2g8uBo/edit?usp=sharing)
 
 ## Day 5
 Friday, July 14
