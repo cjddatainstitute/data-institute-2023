@@ -40,7 +40,7 @@ Week 2:
 - Sublime Text (<a href="https://download.sublimetext.com/Sublime%20Text%20Build%203211.dmg">Mac</a>, <a href="https://download.sublimetext.com/Sublime%20Text%20Build%203211%20Setup.exe">Windows</a>) - This app is where we're going to be writing all our code. It's completely free, and will occassionally ask you if you'd like to pay, but payment is not required. For both beginners and experts, Sublime is one of the best apps for coding.
 - <a href="https://desktop.github.com/">Github Desktop App</a> - an app to simplify your Github experience.
 - Tabula (<a href="https://github.com/tabulapdf/tabula/releases/download/v1.2.1/tabula-mac-1.2.1.zip">Mac</a>, <a href="https://github.com/tabulapdf/tabula/releases/download/v1.2.1/tabula-win-1.2.1.zip">Windows</a>) - Your best friend for when you have a huge stack of data tables in PDF format and need to turn it into actual data you can use.
-- Open Refine (<a href="https://openrefine.org/post_download?version=3.7.3&platform=mac">Mac</a>, <a href="https://openrefine.org/post_download?version=3.7.3&platform=win-with-java">Windows</a>) - A great tool to help you clean data (ex: it can recognize that "Saint Paul" and "St. Paul" maybe refer to the same city in Minnesota) 
+- Open Refine (<a href="https://openrefine.org/post_download?version=3.7.3&platform=mac">Mac</a>, <a href="https://openrefine.org/post_download?version=3.7.3&platform=win-with-java">Windows</a>) - A great tool to help you clean data (ex: it can recognize that "Saint Paul" and "St. Paul" maybe refer to the same city in Minnesota)
 	- If you're on a Mac, and you get the error that Google/Open Refine is damaged, [follow these instructions](open-refine-troubleshooting.md).
 
 <hr/>
@@ -75,12 +75,21 @@ Basic Geographic Data
 - [John Snow's map](https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg)
 - [Census Geocoder](https://geocoding.geo.census.gov/geocoder/locations/addressbatch?form)
 - [Maryland zip codes](https://data.imap.maryland.gov/datasets/maryland::maryland-political-boundaries-zip-codes-5-digit/explore?location=38.977456%2C-77.408308%2C8.94)
-  
+
 <a href="https://propublica.s3.amazonaws.com/data-institute/analysis-two-vars-23.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.jpg"></a>
 <a href="https://propublica.s3.amazonaws.com/data-institute/mms-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/mms.png"></a>
 
 ## Day 4
 Thursday, July 13
+
+### Visualizing Data, Charts and Maps
+
+<a href="https://docs.google.com/presentation/d/1gkFt1MwdqwxSnhease3RJH_AtA61qEGyTUKJCo4C28Q/edit#slide=id.g258ddfcafaf_0_116"><img width="300" src="https://github.com/cjddatainstitute/data-institute-2023/blob/main/assets/day-4-thumbnail.png"></a>
+
+Getting started with Datawrapper
+- [Creating your first chart](https://academy.datawrapper.de/article/245-how-to-create-your-first-datawrapper-chart)
+- [Creating your first map](https://academy.datawrapper.de/article/268-how-to-create-your-first-choropleth-map)
+  - [Florida county unemployment](https://docs.google.com/spreadsheets/d/1m2CevE363ZqqYHSBpB8nYeKReX52TdVkJ_eXZCTG_7k/edit#gid=266177519)
 
 ## Day 5
 Friday, July 14
