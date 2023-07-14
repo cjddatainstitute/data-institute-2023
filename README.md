@@ -95,20 +95,15 @@ Intro to visualizing data
 ## Day 5
 Friday, July 14
 
-<!--
 ### Intro to Code
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
 
 **In-Class Demos**
-- [What coding languages have you heard of?](https://etherpad.opennews.org/p/2022-data-institute-programming-languages)
+- What coding languages have you heard of?
 - Using the web inspector
 
 ### How Websites Work
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
-
-**In-Class Demos**
-- How the Internet passes websites around
-- What HTML, CSS and Javascript contribute to a webpage
 
 ### HTML
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/html.jpg"></a>
@@ -143,7 +138,6 @@ Friday, July 14
 
 ### Optional Homework
 Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">this code</a> and follow the instructions inside to format the page.
--->
 
 ## Day 6
 Monday, July 17
