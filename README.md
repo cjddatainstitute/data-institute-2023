@@ -142,6 +142,15 @@ Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">this
 ## Day 6
 Monday, July 17
 
+### Design Concepts as Journalistic Tools
+<a href="https://docs.google.com/presentation/d/1TsY4Jqd9mO_kahmkXvHKbMu4B8e1xctb9Mz6LXjMbtY/edit?pli=1#slide=id.g1d0b3f77a7_0_0"><img width="500" src="https://static.propublica.org/projects/datainstitute/design_concepts_lecture.png"></a>
+
+<a href="https://docs.google.com/presentation/d/1-5mC4tJUvLRRRvlsmZe9Eng_Pjd91w05e9RcHSH5Tjo/edit#slide=id.g1d0b3f77a7_0_0"><img width="500" src="https://static.propublica.org/projects/datainstitute/design_concepts_exercise.png"></a>
+
+<a href="https://docs.google.com/presentation/d/1jgz0mG72wxiEtLJzhbiTLuocIPZF8jSYtIvWfDTE2e4/edit#slide=id.g1d0b3f77a7_0_0"><img width="500" src="https://static.propublica.org/projects/datainstitute/design_concepts_your_turn.png"></a>
+
+
+
 ## Day 7
 Tuesday, July 18
 
