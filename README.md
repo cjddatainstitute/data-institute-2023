@@ -186,7 +186,15 @@ We'll do the first two together, and you'll do the rest on your own.
 Wednesday, July 19
 
 ## Day 9
-Thursday, July 20
+Thursday, July 20 - Field trip day!
+
+In the morning, we'll meetup in the library space - from 9:30 a.m. to 11:15 a.m. for a discussion about how to keep learning after the Data Institute and some work time. Then you can drop off your stuff at the dorm, before heading downtown for lunch and discussion.
+
+At 12:30pm, we'll meet up at the Center for Public Integrity's office downtown, 910 17th St NW, on the 11th floor. We'll meet folks from the [Center for Public Integrity](https://publicintegrity.org/) and [Accountability Project](https://publicaccountability.org/). We'll likely wrap up mid-afternoon and then you can explore downtown on your own.
+
+The [AAJA Convention](https://aaja23.org/) is happening downtown as well. There is a Mid-Atlantic chapter meetup at 7 p.m. (details in Slack). On Friday evening, there's a [news nerd meetup](https://www.eventbrite.com/e/yung-aaja-x-aaja-news-nerds-convention-hangout-tickets-674086359447) as well.
 
 ## Day 10
-Friday, July 21
+Friday, July 21 - Celebration and final presentations
+
+Presentations - we'd love to hear a highlight of something you've learned from the Data Institute. Each person will have about 5 minutes to jump to the front of the room, plug in your laptop if you would like to, and share something from the Data Institute. This is super laid back and celebratory! It could be related to a project you were thinking about coming into the Data Institute and you have new ideas for from what you learned, or it could be just a few minutes about one concept you really loved and keep thinking about. We'll chat more about this on Thursday. Feel free to reach out to Erika with any questions sooner than that though!
