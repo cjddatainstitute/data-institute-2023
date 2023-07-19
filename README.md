@@ -185,6 +185,18 @@ We'll do the first two together, and you'll do the rest on your own.
 ## Day 8
 Wednesday, July 19
 
+### Web Scraping, Continued
+
+**In-Class Demos**
+- Even more web scraping!
+
+**Homework**
+
+* **Continue thinking about your presentation** - Some starter thoughts:
+	* General: What did you learn? What can you do now that you could not do 2 weeks ago? What were the biggest challenges/setbacks/frustrations you faced? The biggest surprises/succeses/most awesome things you accomplished?
+	* What would you like to present? a portfolio, a dataset you analyzed, a data visualization you created? What are you proud of? What are the next steps you want to take? What are your ultimate goals for your work with data, design and/or code?
+ 		* If you would like to make a portfolio, [here's a handy guide from Lena](http://lenagroeger.com/makeawebsite/)! 
+
 ## Day 9
 Thursday, July 20 - Field trip day!
 
